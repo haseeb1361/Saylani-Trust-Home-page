@@ -1,0 +1,156 @@
+/* img{
+    width: 10px;
+    height: 10px;
+} */
+.header{
+    background-color: blue;
+    width: auto;
+    height: auto;
+    text-align: center; 
+}
+h1{
+    text-align: center;
+    font: blue;
+}
+
+.container{
+    border: none;
+    box-sizing: 300px;
+    background-color: darkblue;
+    width: auto;
+    font:white;
+}
+
+.line{
+    width: 70px;
+    height: 2px;
+    background-color: black;
+    display: block;
+}
+.projects marquee{
+    height: 250px;
+}
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 200px;
+      }
+      .heading{
+          text-align: center;
+      }
+/* p{
+    text-align: center;
+} */
+.middle-page{
+   text-align: justify;
+    position: relative;
+    top: auto;
+    left: auto;
+    right: auto;
+    width: 1000px;
+    float: center;
+    margin: 160px;
+    padding: 50px;
+    background-color: #efefef
+    
+}
+
+button{
+    background-color: white;
+}
+
+.navbar-nav {
+     /* float: right;  */
+    margin-left: 0 auto;
+    /* image-resolution: left; */
+}
+.middle-container{
+    background-color: blue;
+    width: auto;
+    height: auto;
+    font-size:x-large;
+    image-resolution: 50px;
+    text-align: justify;
+    display: inline-block;   
+}
+
+        .blue{
+            background-color: darkblue;
+            width: auto;
+            height: 30px;
+            font: white;
+            
+        }  
+.footer{
+    background-color: #323232;
+    display: inline-block;
+    width: 100%;
+    /* width: auto;
+    height: 200px;
+    font: white; */
+}
+.image-container{
+    display: inline-block;
+}
+.are-doing{
+    background-color: white;
+    width: 100%;
+    height: auto;
+     
+}
+.cbox{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    background-color: royalblue;
+    padding-bottom: 5px;
+  }
+  #moto{
+    font-weight: bold;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    display: inline;
+    margin-right: 40px;
+  }
+  .top-icons{
+    text-align: right;
+    width: 15px;
+    margin: 10px 10px 10px 10px;
+  }
+  .top-icons:hover{
+    cursor: pointer;
+    background-color: royalblue;
+  }
+  .topbutton{
+    border-width: thin;
+    border-color: green;
+    height: 30px;
+    width: auto;
+    font-size: 12px;
+    color: green;
+  }
+  .topbutton:hover{
+    border-color: #32ff6a;
+  }
+  .active {
+    border-radius: 35px;
+    background-color: #316DC3;
+    color: white;
+}
+.nav {
+    font-size: 16px;
+}
+ul>li:hover {
+    color: white!important;
+    border-radius: 30px;
+    background-color: #316DC3;
+}
+
+/* @media only screen (max-width 1000px){
+    .middle-page{
+        width: 400px;
+    }
+
+} */
